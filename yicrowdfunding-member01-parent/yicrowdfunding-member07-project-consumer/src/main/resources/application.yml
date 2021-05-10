@@ -1,7 +1,6 @@
 aliyun:
   oss:
-    access-key-id: LTAI5t6wsoyG8kbcgrKoZGUv
-    access-key-secret: vGr97mqFvqOOQsNpq10IqijOjpzR8t
+   
     bucket-domain: http://yichou.oss-cn-qingdao.aliyuncs.com
     bucket-name: yichou
     end-point: http://oss-cn-qingdao.aliyuncs.com
